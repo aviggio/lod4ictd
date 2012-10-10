@@ -23,4 +23,4 @@ TODO
 
 ### Getting Started
 
-TODO
+Are you ready to help? Message me if you'd like to be added as a Collaborator.
