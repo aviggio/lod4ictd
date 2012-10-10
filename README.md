@@ -7,14 +7,11 @@ lod4ictd is Linked Open Data (LOD) for Information and Communication Technology 
 
 ### Wiki
 
-Wiki is available at: 
-
-[https://github.com/aviggio/lod4ictd/wiki](https://github.com/aviggio/lod4ictd/wiki)
+Wiki is available at [https://github.com/aviggio/lod4ictd/wiki](https://github.com/aviggio/lod4ictd/wiki)
 
 ### Issues
 
-Issues are tracked at: 
-
+Issues are tracked at 
 [https://github.com/aviggio/lod4ictd/issues](https://github.com/aviggio/lod4ictd/issues)
 
 ### Mailing List / Discussion Group
