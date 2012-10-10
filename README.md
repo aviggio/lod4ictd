@@ -19,7 +19,7 @@ Issues are tracked at:
 
 ### Mailing List / Discussion Group
 
-TODO
+[TODO](https://github.com/aviggio/lod4ictd/issues/2)
 
 ### Getting Started
 
